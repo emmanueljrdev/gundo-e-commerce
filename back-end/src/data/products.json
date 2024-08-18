@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "product_name": "Pollo",
+    "reason": "Bajo en grasa, alto en proteínas de alta calidad",
+    "preference": "proteina",
+    "image": "pollo.png"
+  },
+  {
+    "id": "2",
+    "product_name": "Tofu",
+    "reason": "Fuente de proteína vegetal rica en aminoácidos esenciales",
+    "preference": "proteina",
+    "image": "tofu.png"
+  },
+  {
+    "id": "3",
+    "product_name": "Pescado",
+    "reason": "Provee proteínas y ácidos grasos omega-3",
+    "preference": "proteina",
+    "image": "pescado.png"
+  },
+  {
+    "id": "4",
+    "product_name": "Avena",
+    "reason": "Alta en fibra, proporciona energía sostenida",
+    "preference": "carbohidrato",
+    "image": "avena.png"
+  },
+  {
+    "id": "5",
+    "product_name": "Arroz integral",
+    "reason": "Carbohidrato complejo con fibra y nutrientes",
+    "preference": "carbohidrato",
+    "image": "arroz.png"
+  },
+  {
+    "id": "6",
+    "product_name": "Pasta integral",
+    "reason": "Fuente de energía duradera y fibra",
+    "preference": "carbohidrato",
+    "image": "pasta-integral.png"
+  },
+  {
+    "id": "7",
+    "product_name": "Aguacate",
+    "reason": "Grasa saludable, rica en ácidos grasos monoinsaturados",
+    "preference": "grasa",
+    "image": "aguacate.png"
+  },
+  {
+    "id": "8",
+    "product_name": "Nueces",
+    "reason": "Proveen grasas saludables y antioxidantes",
+    "preference": "grasa",
+    "image": "nueces.png"
+  },
+  {
+    "id": "9",
+    "product_name": "Aceite de oliva",
+    "reason": "Rico en grasas monoinsaturadas y antioxidantes",
+    "preference": "grasa",
+    "image": "aceite-de-oliva-1.png"
+  },
+  {
+    "id": "10",
+    "product_name": "Lentejas",
+    "reason": "Alta en fibra y proteínas vegetales",
+    "preference": "fibra",
+    "image": "lentejas.png"
+  },
+  {
+    "id": "11",
+    "product_name": "Frijoles negros",
+    "reason": "Rica fuente de fibra y nutrientes esenciales",
+    "preference": "fibra",
+    "image": "caraotas-1.png"
+  },
+  {
+    "id": "12",
+    "product_name": "Chía",
+    "reason": "Semillas con alto contenido de fibra y omega-3",
+    "preference": "fibra",
+    "image": "chia.png"
+  },
+  {
+    "id": "13",
+    "product_name": "Pepino",
+    "reason": "Hidratante y bajo en calorías",
+    "preference": "agua",
+    "image": "pepino.png"
+  },
+  {
+    "id": "14",
+    "product_name": "Sandía",
+    "reason": "Rica en agua, hidrata y refresca",
+    "preference": "agua",
+    "image": "sandia.png"
+  },
+  {
+    "id": "15",
+    "product_name": "Apio",
+    "reason": "Alto contenido de agua, excelente para hidratación",
+    "preference": "agua",
+    "image": "apio-1.png"
+  },
+  {
+    "id": "16",
+    "product_name": "Zanahorias",
+    "reason": "Ricas en vitamina A, promueven la salud ocular",
+    "preference": "vitaminas",
+    "image": "zanahoria.png"
+  },
+  {
+    "id": "17",
+    "product_name": "Espinacas",
+    "reason": "Fuente de vitamina K y hierro",
+    "preference": "vitaminas",
+    "image": "espinaca.png"
+  },
+  {
+    "id": "18",
+    "product_name": "Naranjas",
+    "reason": "Ricas en vitamina C, refuerzan el sistema inmunológico",
+    "preference": "vitaminas",
+    "image": "naranja.png"
+  },
+  {
+    "id": "19",
+    "product_name": "Plátano",
+    "reason": "Alto en potasio, excelente para el equilibrio electrolítico",
+    "preference": "minerales",
+    "image": "platano-1.png"
+  },
+  {
+    "id": "20",
+    "product_name": "Almendras",
+    "reason": "Buenas fuentes de magnesio y calcio",
+    "preference": "minerales",
+    "image": "almendras-1.png"
+  },
+  {
+    "id": "21",
+    "product_name": "Espárragos",
+    "reason": "Ricos en ácido fólico y potasio",
+    "preference": "minerales",
+    "image": "esparragos.png"
+  },
+  {
+    "id": "22",
+    "product_name": "Salmón",
+    "reason": "Rica fuente de omega-3, favorece la salud cardiovascular",
+    "preference": "omega-3",
+    "image": "salmon.png"
+  },
+  {
+    "id": "23",
+    "product_name": "Semillas de lino",
+    "reason": "Altas en omega-3 y fibra",
+    "preference": "omega-3",
+    "image": "semillas-de-lino.png"
+  },
+  {
+    "id": "24",
+    "product_name": "Chía",
+    "reason": "Provee omega-3, fibra y proteínas",
+    "preference": "omega-3",
+    "image": "chia.png"
+  },
+  {
+    "id": "25",
+    "product_name": "Huevos",
+    "reason": "Contienen todos los aminoácidos esenciales",
+    "preference": "aminoacidos",
+    "image": "huevos-1.png"
+  },
+  {
+    "id": "26",
+    "product_name": "Quinoa",
+    "reason": "Proteína completa con todos los aminoácidos esenciales",
+    "preference": "aminoacidos",
+    "image": "quinoa-1.png"
+  },
+  {
+    "id": "27",
+    "product_name": "Carne magra",
+    "reason": "Fuente completa de aminoácidos esenciales",
+    "preference": "aminoacidos",
+    "image": "carne-magra.png"
+  },
+  {
+    "id": "28",
+    "product_name": "Arándanos",
+    "reason": "Ricos en antioxidantes, promueven la salud cerebral",
+    "preference": "antioxidantes",
+    "image": "arandanos.png"
+  },
+  {
+    "id": "29",
+    "product_name": "Té verde",
+    "reason": "Alto en antioxidantes, mejora la salud metabólica",
+    "preference": "antioxidantes",
+    "image": "te-verde.png"
+  },
+  {
+    "id": "30",
+    "product_name": "Tomates",
+    "reason": "Contienen licopeno, un potente antioxidante",
+    "preference": "antioxidantes",
+    "image": "tomates-1.png"
+  }
+]
