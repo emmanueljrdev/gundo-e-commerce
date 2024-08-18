@@ -1,0 +1,94 @@
+[
+  {
+    "user_id": "0001",
+    "name": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "preferences": {
+      "proteina_alta": true
+    },
+    "recommended_products": [
+      {
+        "product_name": "Pechuga de Pollo",
+        "reason": "Alto en proteína"
+      },
+      {
+        "product_name": "Lenteja",
+        "reason": "Rico en proteína y fibra"
+      },
+      {
+        "product_name": "Yogurt Griego",
+        "reason": "Alto en proteína y contiene probióticos"
+      }
+    ]
+  },
+  {
+    "user_id": "0002",
+    "name": "Juan",
+    "lastName": "Dezco",
+    "email": "juan.dezco@example.com",
+    "preferences": {
+      "proteina_alta": true
+    },
+    "recommended_products": [
+      {
+        "product_name": "Pechuga de Pollo",
+        "reason": "Alto en proteína"
+      },
+      {
+        "product_name": "Lenteja",
+        "reason": "Rico en proteína y fibra"
+      },
+      {
+        "product_name": "Yogurt Griego",
+        "reason": "Alto en proteína y contiene probióticos"
+      }
+    ]
+  },
+  {
+    "user_id": "0003",
+    "name": "Jane",
+    "lastName": "Doe",
+    "email": "jane.doe@example.com",
+    "preferences": {
+      "proteina_alta": true
+    },
+    "recommended_products": [
+      {
+        "product_name": "Pechuga de Pollo",
+        "reason": "Alto en proteína"
+      },
+      {
+        "product_name": "Lenteja",
+        "reason": "Rico en proteína y fibra"
+      },
+      {
+        "product_name": "Yogurt Griego",
+        "reason": "Alto en proteína y contiene probióticos"
+      }
+    ]
+  },
+  {
+    "user_id": "0004",
+    "name": "Maria",
+    "lastName": "Jones",
+    "email": "maria.jones@example.com",
+    "preferences": {
+      "proteina_alta": true
+    },
+    "recommended_products": [
+      {
+        "product_name": "Pechuga de Pollo",
+        "reason": "Alto en proteína"
+      },
+      {
+        "product_name": "Lenteja",
+        "reason": "Rico en proteína y fibra"
+      },
+      {
+        "product_name": "Yogurt Griego",
+        "reason": "Alto en proteína y contiene probióticos"
+      }
+    ]
+  }
+]
