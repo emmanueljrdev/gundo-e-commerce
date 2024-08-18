@@ -4,9 +4,8 @@
     "name": "John",
     "lastName": "Doe",
     "email": "john.doe@example.com",
-    "preferences": {
-      "proteina": true
-    },
+    "password": "123prueba",
+    "preferences": "proteina",
     "recommended_products": [
       {
         "product_name": "Pollo",
@@ -27,9 +26,8 @@
     "name": "Maria",
     "lastName": "Lopez",
     "email": "maria.lopez@example.com",
-    "preferences": {
-      "carbohidrato": true
-    },
+    "password": "123prueba",
+    "preferences": "carbohidrato",
     "recommended_products": [
       {
         "product_name": "Avena",
@@ -50,9 +48,8 @@
     "name": "Carlos",
     "lastName": "Gomez",
     "email": "carlos.gomez@example.com",
-    "preferences": {
-      "grasa_saludable": true
-    },
+    "password": "123prueba",
+    "preferences": "grasa",
     "recommended_products": [
       {
         "product_name": "Aguacate",
@@ -73,9 +70,8 @@
     "name": "Ana",
     "lastName": "Martinez",
     "email": "ana.martinez@example.com",
-    "preferences": {
-      "fibra": true
-    },
+    "password": "123prueba",
+    "preferences": "fibra",
     "recommended_products": [
       {
         "product_name": "Lentejas",
@@ -96,9 +92,8 @@
     "name": "Laura",
     "lastName": "Hernandez",
     "email": "laura.hernandez@example.com",
-    "preferences": {
-      "hidratacion": true
-    },
+    "password": "123prueba",
+    "preferences": "hidratación",
     "recommended_products": [
       {
         "product_name": "Pepino",
@@ -119,9 +114,8 @@
     "name": "Pedro",
     "lastName": "Torres",
     "email": "pedro.torres@example.com",
-    "preferences": {
-      "vitaminas": true
-    },
+    "password": "123prueba",
+    "preferences": "vitaminas",
     "recommended_products": [
       {
         "product_name": "Zanahorias",
@@ -142,9 +136,8 @@
     "name": "Sofia",
     "lastName": "Perez",
     "email": "sofia.perez@example.com",
-    "preferences": {
-      "minerales": true
-    },
+    "password": "123prueba",
+    "preferences": "minerales",
     "recommended_products": [
       {
         "product_name": "Plátano",
@@ -165,9 +158,8 @@
     "name": "Miguel",
     "lastName": "Fernandez",
     "email": "miguel.fernandez@example.com",
-    "preferences": {
-      "omega_3": true
-    },
+    "password": "123prueba",
+    "preferences": "omega-3",
     "recommended_products": [
       {
         "product_name": "Salmón",
@@ -188,9 +180,8 @@
     "name": "Daniel",
     "lastName": "Rodriguez",
     "email": "daniel.rodriguez@example.com",
-    "preferences": {
-      "aminoacidos": true
-    },
+    "password": "123prueba",
+    "preferences": "aminoacidos",
     "recommended_products": [
       {
         "product_name": "Huevos",
@@ -211,9 +202,8 @@
     "name": "Elena",
     "lastName": "Garcia",
     "email": "elena.garcia@example.com",
-    "preferences": {
-      "antioxidantes": true
-    },
+    "password": "123prueba",
+    "preferences": "antioxidantes",
     "recommended_products": [
       {
         "product_name": "Arándanos",

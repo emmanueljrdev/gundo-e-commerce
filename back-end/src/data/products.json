@@ -87,21 +87,21 @@
     "id": "13",
     "product_name": "Pepino",
     "reason": "Hidratante y bajo en calorías",
-    "preference": "agua",
+    "preference": "hidratación",
     "image": "pepino.png"
   },
   {
     "id": "14",
     "product_name": "Sandía",
     "reason": "Rica en agua, hidrata y refresca",
-    "preference": "agua",
+    "preference": "hidratación",
     "image": "sandia.png"
   },
   {
     "id": "15",
     "product_name": "Apio",
     "reason": "Alto contenido de agua, excelente para hidratación",
-    "preference": "agua",
+    "preference": "hidratación",
     "image": "apio-1.png"
   },
   {

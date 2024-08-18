@@ -12,8 +12,8 @@ export const ItemsSection = ({ products }) => {
       gap={3}
       overflowX="auto"
     >
-      {products.map((product) => (
-        <GridElement product={product} />
+      {products.map((product, index) => (
+        <GridElement key={index} product={product} />
       ))}
     </Grid>
   );

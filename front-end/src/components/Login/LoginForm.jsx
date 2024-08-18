@@ -13,9 +13,17 @@ import {
 } from "@chakra-ui/react";
 import { ViewIcon, ViewOffIcon } from "@chakra-ui/icons";
 
+import { useNavigate } from "react-router-dom";
+
 import { useState } from "react";
+import axios from "axios";
+import { API_URL } from "../../api/API_URL";
 
 export const LoginForm = () => {
+  // Hooks
+
+  const navigate = useNavigate();
+
   // Estados
 
   const [user, setUser] = useState({
@@ -29,6 +37,31 @@ export const LoginForm = () => {
 
   const handleChange = (e) => {
     setUser({ ...user, [e.target.name]: e.target.value });
+  };
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+
+    const email = user.email.trim();
+    const password = user.password.trim();
+
+    const { data } = await axios.post(
+      `${API_URL}/api/login`,
+      {
+        email,
+        password,
+      },
+      {
+        withCredentials: true,
+      }
+    );
+
+    setUser({
+      email: "",
+      password: "",
+    });
+
+    navigate(`/dashboard`, { replace: true });
   };
 
   // Estilos
@@ -129,7 +162,7 @@ export const LoginForm = () => {
           </FormControl>
         </Flex>
 
-        <Button sx={buttonStyles} w="3/4" mx="auto">
+        <Button onClick={handleSubmit} sx={buttonStyles} w="3/4" mx="auto">
           Ingresar
         </Button>
       </Flex>
